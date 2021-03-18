@@ -1,0 +1,5 @@
+<!--ENTRY--!>
+get dressed
+7
+putting clothes on
+False
