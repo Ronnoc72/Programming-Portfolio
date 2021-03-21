@@ -6,4 +6,4 @@
 <hr />
 <h1 align="center">Contact</h1>
 <p align="center">You can email me at <b>cpaxman10@gmail.com</b> or <b>connor.paxman@tooeleschools.org</b>.<br />Shot me a text at <b>435-228-5123</b>.</p>
-<img src="https://drive.google.com/file/d/16kRf-n13fZbr80KMyZaZJIWBtkfsv1rm/preview" />
+<p align="center" margin="100px"><img src="my_pic (1).jpg" width="350px" height="475px" /></p>
